@@ -9,6 +9,7 @@ h1 {
   font-size: 50px;
 }
 .orange-highlight {
+  font-family: "Rubik", sans-serif;
   color: #ec4c7a;
 }
 .top-bannar {
@@ -44,9 +45,8 @@ h2 {
 .second-section {
   background-image: url("img/biography-bg.png");
   background-repeat: no-repeat;
-  
 }
-.latest-work{
+.latest-work {
   background-image: url("img/latest-work-bg.png");
   background-repeat: no-repeat;
 }
@@ -65,18 +65,18 @@ h2 {
 #latest-work-title {
   text-align: center;
 }
-footer{
+footer {
   background-image: url("img/footer-bg.png");
   background-repeat: no-repeat;
 }
 footer p {
   text-align: center;
-  font-size: 24px;
+  font-size: 20px;
 }
-.testimonials-area{
+.testimonials-area {
   text-align: center;
 }
-.contact-box{
+.contact-box {
   text-decoration: none;
   background-color: #ec4c7a;
   margin-left: 300px;
@@ -86,10 +86,9 @@ footer p {
   color: white;
   font-weight: 650px;
 }
-.message-text{
+.message-text {
   font-size: 20px;
-  
 }
-.email-text{
+.email-text {
   font-size: 30px;
 }
